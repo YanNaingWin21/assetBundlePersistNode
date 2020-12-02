@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/persistNode/persistNodeScene.fire",orientation:"",jsList:[],bundleVers:{persistNode:"4a690",internal:"279e0",main:"a3c5b"}};
